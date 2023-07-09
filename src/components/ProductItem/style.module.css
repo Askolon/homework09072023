@@ -1,0 +1,17 @@
+.form{
+    border: 1px solid black;
+    width: 322px;
+    height: 209px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+    padding-left: 20px;   
+    margin-top: 30px;
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+.form{
+    border: 1px solid black;
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    margin-left: 20px;
+    height: 30px;
+    width: 250px;
+}
+button{
+    background-color: #E67E22;
+    color: white;
+    height: 57px;
+    width: 189px;
+    border: none;
+    border-radius: 10px;
+}
